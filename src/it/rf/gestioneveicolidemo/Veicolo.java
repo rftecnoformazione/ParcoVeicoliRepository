@@ -20,14 +20,12 @@ public class Veicolo implements FunzionalitaVeicoli{
 	}
 
 	@Override
-	public void accelera(Veicolo[] vett, Veicolo v) {
-		// TODO Auto-generated method stub
+	public void accelera(Veicolo v) {	
 		
 	}
 
 	@Override
-	public void decelera(Veicolo[] vett, Veicolo v) {
-		// TODO Auto-generated method stub
+	public void decelera(Veicolo v) {
 		
 	}
 	
