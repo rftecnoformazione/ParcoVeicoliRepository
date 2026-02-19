@@ -16,14 +16,7 @@ public class Auto extends Veicolo{
 		this.nPorte=nPorte;
 	}
 	
-	@Override
-	public void accelera(Veicolo v) {	
-		v.velocita=velocita + 10;
-	}
 
-	@Override
-	public void decelera(Veicolo v) {
-		v.velocita=velocita - 5.5;
-	}
 	
 }
+
