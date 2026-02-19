@@ -29,7 +29,7 @@ public class Operazioni implements FunzionalitaSoftware{
 		v.colore = scan.next();
 		
 		
-		/*===================================FUNZIONE TUTTO============================*/
+		/*===================================FUNZIONE COMPLETA============================*/
 		
 		
 		/*
